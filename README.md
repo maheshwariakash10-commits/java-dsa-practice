@@ -40,4 +40,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0283-move-zeroes/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
