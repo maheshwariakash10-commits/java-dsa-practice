@@ -26,6 +26,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
