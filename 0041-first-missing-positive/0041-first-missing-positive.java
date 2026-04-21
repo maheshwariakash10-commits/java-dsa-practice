@@ -4,8 +4,8 @@ class Solution {
         HashSet <Integer> set= new HashSet<>();
     //  time complecxit is O(n)
 // AND SPACE COM. IS O(N) KYU KI HASH SET BANAYA HE N SIZE KA 
-        for(int else: nums){
-            set.add(nums[i]);// removing the dupcliate
+        for(int ele: nums){
+            set.add(ele);// removing the dupcliate
         }  
 
 
