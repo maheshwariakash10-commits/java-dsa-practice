@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0169-majority-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0169-majority-element/) | Easy |
@@ -16,6 +17,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
