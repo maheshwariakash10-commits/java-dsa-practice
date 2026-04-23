@@ -1,5 +1,6 @@
 class Solution {
     public int missingNumber(int[] nums) {
+        // gready with sum upto n 
         int n= nums.length;
         int tsum=0;
         int arsum=0;
