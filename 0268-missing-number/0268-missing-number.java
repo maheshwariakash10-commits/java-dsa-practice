@@ -1,15 +1,17 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        // gready with sum upto n 
-        int n= nums.length;
-        int tsum=0;
-        int arsum=0;
+        Arrays.sort(nums);
+        int n=nums.length;
+        int i=0;
 
-        for(int i=0;i<n;i++){
-            tsum= tsum+i+1;
-            arsum= arsum+nums[i];
+        for(int j=0;j<n;j++){
+            if(nums[j]==i){
+                i++;
+            }
+            else{
+                return i;
+            }
         }
-        return tsum-arsum;
-        
+        return i;
     }
 }
