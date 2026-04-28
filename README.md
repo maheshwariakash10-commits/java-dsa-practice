@@ -60,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -80,6 +81,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Two Pointers
@@ -152,6 +154,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
