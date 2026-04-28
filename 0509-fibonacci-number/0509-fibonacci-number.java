@@ -1,20 +1,18 @@
 class Solution {
     public int fib(int n) {
-        if(n==0||n==1){
-            return n;
-        }// base case
-
-       int f0= 0;
-      int f1= 1;
-      int x=0;
-
-      for(int i=2;  i<=n; i++ ){
+        if(n==0||n==1)  return n;
         
-        x= f0+f1;
-        f0=f1;
-        f1=x;
-      }
-      return x;
+        int n0=0;
+        int n1=1;
+        int nn=0;
 
+        for(int i=1;i<n;i++){
+            nn=n0+n1;
+            n0=n1;
+            n1=nn;
+        }
+        return n1;
+
+        
     }
 }
