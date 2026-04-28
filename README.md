@@ -79,11 +79,13 @@
 | [0202-happy-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Dynamic Programming
