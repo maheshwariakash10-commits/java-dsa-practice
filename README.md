@@ -19,6 +19,7 @@
 | [0704-binary-search](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -37,6 +38,7 @@
 | [0242-valid-anagram](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Divide and Conquer
@@ -53,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -95,6 +98,7 @@
 | [0283-move-zeroes](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0344-reverse-string/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -122,6 +126,7 @@
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
