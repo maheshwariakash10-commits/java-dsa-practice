@@ -1,5 +1,6 @@
 class Solution {
     public int returnToBoundaryCount(int[] nums) {
+        // tc= O(n), 
         int n= nums.length;
         int bount=0;
         int count=0;
