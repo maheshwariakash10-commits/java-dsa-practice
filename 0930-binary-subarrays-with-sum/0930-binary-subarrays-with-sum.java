@@ -1,5 +1,6 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
+        //  slinding window ka he but abhi prifix se karra he 
         int n= nums.length;
         int count=0;
 
