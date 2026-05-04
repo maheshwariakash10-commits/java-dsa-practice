@@ -31,6 +31,7 @@
 | [3028-ant-on-the-boundary](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3866-first-unique-even-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3866-first-unique-even-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3866-first-unique-even-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3866-first-unique-even-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
