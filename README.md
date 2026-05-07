@@ -94,6 +94,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -199,6 +200,7 @@
 | [0258-add-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
