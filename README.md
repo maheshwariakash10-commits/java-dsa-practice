@@ -96,6 +96,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
