@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -65,6 +66,7 @@
 | [0229-majority-element-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Counting
@@ -83,6 +85,7 @@
 | [0258-add-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -134,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
