@@ -84,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -171,6 +173,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
