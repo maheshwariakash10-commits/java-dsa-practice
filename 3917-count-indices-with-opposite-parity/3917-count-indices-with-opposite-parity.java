@@ -1,4 +1,5 @@
 class Solution {
+    // Tc=O(n)  Sc=O(n)
     public int[] countOppositeParity(int[] nums) {
         int n= nums.length;
         int arr[]= new int[n];
