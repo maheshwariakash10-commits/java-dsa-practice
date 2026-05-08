@@ -101,6 +101,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2427-number-of-common-factors/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3099-harshad-number/) | Easy |
