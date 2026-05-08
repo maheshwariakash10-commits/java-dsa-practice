@@ -102,6 +102,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2427-number-of-common-factors/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -235,4 +236,8 @@
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2427-number-of-common-factors/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->
