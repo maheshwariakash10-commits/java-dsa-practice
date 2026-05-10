@@ -48,6 +48,7 @@
 | [0229-majority-element-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -70,6 +71,7 @@
 | [0229-majority-element-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0881-boats-to-save-people](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -123,6 +125,7 @@
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -152,6 +155,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
