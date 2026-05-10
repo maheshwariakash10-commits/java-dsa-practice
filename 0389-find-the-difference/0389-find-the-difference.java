@@ -5,11 +5,11 @@ class Solution {
         int xor=0;
 
         for(int i=0;i<n.length;i++){
-            xor=xor^(int)n[i];
+            xor=xor^n[i];
         }
 
         for(int i=0;i<m.length;i++){
-            xor=xor^(int) m[i];
+            xor=xor^ m[i];
         }
 
         
