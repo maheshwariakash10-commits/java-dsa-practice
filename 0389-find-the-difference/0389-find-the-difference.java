@@ -9,7 +9,7 @@ class Solution {
         }
 
         for(int i=0;i<m.length;i++){
-            xor=xor^ m[i];
+            xor=xor^(int) m[i];
         }
 
         
