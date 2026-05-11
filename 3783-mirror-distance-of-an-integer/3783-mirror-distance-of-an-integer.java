@@ -1,12 +1,12 @@
 class Solution {
     public int mirrorDistance(int n) {
-        return Math.abs(n-reverse(n));
+        return Math.abs(n-reverse(Math.abs(n)));
     }
     public int reverse(int n){
-        int rev=0;
-        while(n>0){
+        int rev= 0;
+        while(n!=0){
             int rem= n%10;
-            rev= rev*10+rem;
+            rev=rev*10+rem;
             n/=10;
         }
         return rev;
