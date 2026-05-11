@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -72,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
