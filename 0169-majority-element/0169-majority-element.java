@@ -1,17 +1,24 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        
-
+        // moore voting..
         int n= nums.length;
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int mj=nums[0];
+        int voting=0;
         for(int i=0;i<n;i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0) +1 );
-        }
+            if(mj== nums[i]){
+                voting++;
+            }
+            else if(mj!= nums[i]){
+                voting--;
+            }
 
-        for(int ele: map.keySet()){
-            if(map.get(ele)>n/2) return ele;
+            if(voting==0) {
+                voting++;
+                mj= nums[i];
+            }
+
+
         }
-         return -1;
-        
+        return mj;
     }
 }
