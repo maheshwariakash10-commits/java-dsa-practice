@@ -1,6 +1,8 @@
 class Solution {
     public int majorityElement(int[] nums) {
+        //  Tc= O(nlogn) Sc=O(1)
         Arrays.sort(nums);
-        return nums[nums.length/2];
+        int n= nums.length;
+        return  nums[n/2];
     }
 }
