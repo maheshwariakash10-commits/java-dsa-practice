@@ -2,14 +2,18 @@ class Solution {
     public String mergeAlternately(String word1, String word2) {
         int n= word1.length();
         int m= word2.length();
-        int max= Math.max(n,m);
-        String mergedstring="";
-        for(int i=0;i<max;i++){
-            if(i<m && i<n) mergedstring = mergedstring + word1.charAt(i)+ word2.charAt(i);
-            else if( i>=m&& i<=n)mergedstring = mergedstring + word1.charAt(i);
-            else if(i<=m && i>=n)mergedstring = mergedstring + word2.charAt(i);
+        String res="";
+        int mx= Math.max(n,m);
+        for(int i=0;i<mx;i++){
+            if(n>i && m> i) {
+                res=res+word1.charAt(i)+ word2.charAt(i);
+            }
+            
+            else if(n>i)res=res+word1.charAt(i);
+            else{
+                res=res+word2.charAt(i);
+            }
         }
-        return mergedstring;
-        
+        return res;
     }
 }
