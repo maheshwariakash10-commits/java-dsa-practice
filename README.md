@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0136-single-number/) | Easy |
@@ -66,6 +67,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0164-maximum-gap](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -146,6 +148,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0283-move-zeroes/) | Easy |
