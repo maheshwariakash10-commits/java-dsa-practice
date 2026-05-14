@@ -1,18 +1,14 @@
 class Solution {
     public char repeatedCharacter(String s) {
-        // BINA SET KE SOLVE NAHI HOGA 
+        
         HashSet<Character> set= new HashSet<>();
-
-        for(int i=0;i<s.length();i++){
-            char ch= s.charAt(i);
-            if(set.contains(ch)==true) return ch;
+        int n= s.length();
+        for(int i=0;i<n;i++){
+            if(set.contains(s.charAt(i))) return s.charAt(i);
             else{
-                set.add(ch);
+                set.add(s.charAt(i));
             }
-        }
+        } 
         return ' ';
-
-
-
     }
 }
