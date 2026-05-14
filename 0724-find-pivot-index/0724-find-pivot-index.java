@@ -1,27 +1,28 @@
 class Solution {
     public int pivotIndex(int[] nums) {
-        // tc= O(n) sc= O(n)
-        int n=nums.length;
-
-        int pri[]= new int[n];
-        int suff[] = new int[n];
-        int sum=0;
+        int n= nums.length;
+        int leftSum[] = new int[n]; 
+        int rightSum[] = new int[n];
+        int sum= 0; 
 
         for(int i=0;i<n;i++){
-            sum= sum+nums[i];
-            pri[i]=sum;
+            sum+= nums[i];
+            leftSum[i]=sum;
         }
+
         sum=0;
+        int j=n-1;
         for(int i=n-1;i>=0;i--){
-            sum= sum+nums[i];
-            suff[i]=sum;
+            sum+= nums[i];
+            rightSum[j]=sum;
+            j--;
         }
-
         for(int i=0;i<n;i++){
-            if(pri[i]==suff[i]) return i;
-        }
-        return -1;
+            
+            if(leftSum[i]==rightSum[i]) return i;
 
-        
+        }
+        return-1;
+
     }
 }
