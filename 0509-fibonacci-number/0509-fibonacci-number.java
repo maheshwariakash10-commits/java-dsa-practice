@@ -1,18 +1,13 @@
 class Solution {
     public int fib(int n) {
-        if(n==0||n==1)  return n;
-        
-        int n0=0;
-        int n1=1;
-        int nn=0;
+        int f0=0;
+        int f1=1;
 
-        for(int i=1;i<n;i++){
-            nn=n0+n1;
-            n0=n1;
-            n1=nn;
+        for(int i=1;i<=n;i++){
+            int tem = f0+f1;
+            f0=f1;
+            f1=tem;
         }
-        return n1;
-
-        
+        return f0;
     }
 }
