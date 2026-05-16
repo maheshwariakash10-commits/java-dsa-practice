@@ -10,6 +10,7 @@ class Solution {
                 sum=sum+rem;
                 cp/=10;
             }
+            
             if(i==sum) return i;
 
 
