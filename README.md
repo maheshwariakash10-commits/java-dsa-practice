@@ -119,6 +119,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3099-harshad-number/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
