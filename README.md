@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -193,6 +194,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
