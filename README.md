@@ -45,6 +45,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -139,6 +140,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3099-harshad-number/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
