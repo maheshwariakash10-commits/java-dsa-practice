@@ -40,6 +40,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3028-ant-on-the-boundary/) | Easy |
@@ -65,6 +66,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3731-find-missing-elements](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3866-first-unique-even-element/) | Easy |
 ## Divide and Conquer
@@ -175,6 +177,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -282,6 +285,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1952-three-divisors/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2427-number-of-common-factors/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
