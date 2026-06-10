@@ -1,21 +1,28 @@
 class Solution {
     public boolean isHappy(int n) {
-        // HashSet<Integer> set= new HashSet<Integer>();
+        return happy(n);
+        
+    }
 
-        while(n>9){
-            int temp =n;
-            int sum=0;
-            while(temp!=0){
-                int rem= temp%10;
-                 sum+= (rem*rem);
-                temp/=10;
+    public boolean happy(int n){
+        if(n<=9) {
+
+            if(n==1||n==7) return true;
+
+            else{
+                return false;
             }
-            n= sum;
         }
-        if(n==1||n==7)return true;
+
+        int cp =n;
+        int pdt=0;
         
-        return false;
-        
-        
+        while(cp!=0){
+            int rem= cp%10;
+            pdt= pdt+(rem*rem);
+            cp/=10;
+        }
+
+        return happy(pdt);
     }
 }
