@@ -1,13 +1,11 @@
 class Solution {
     public int fib(int n) {
-        int f0=0;
-        int f1=1;
+        if(n==1) return 1;
+        if(n==0) return  0;
 
-        for(int i=1;i<=n;i++){
-            int tem = f0+f1;
-            f0=f1;
-            f1=tem;
-        }
-        return f0;
-    }
+
+        int left= fib(n-1);
+        int right=  fib(n-2);
+        return left+right ;
+            }
 }
