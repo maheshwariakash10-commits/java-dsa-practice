@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0575-distribute-candies](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -71,6 +72,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0575-distribute-candies](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0575-distribute-candies/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
