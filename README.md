@@ -175,6 +175,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
