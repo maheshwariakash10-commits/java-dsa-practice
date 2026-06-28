@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0819-most-common-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0819-most-common-word/) | Easy |
+| [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -182,6 +183,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
+| [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3028-ant-on-the-boundary/) | Easy |
@@ -334,4 +336,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
