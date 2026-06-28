@@ -133,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0009-palindrome-number/) | Easy |
+| [0062-unique-paths](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0202-happy-number/) | Easy |
@@ -225,6 +226,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0062-unique-paths](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -342,4 +344,8 @@
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
