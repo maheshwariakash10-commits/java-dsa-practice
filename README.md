@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0202-happy-number/) | Easy |
@@ -344,6 +346,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
