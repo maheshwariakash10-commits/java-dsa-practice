@@ -42,6 +42,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -261,6 +262,7 @@
 | [0633-sum-of-square-numbers](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Heap (Priority Queue)
@@ -349,6 +351,7 @@
 | [0036-valid-sudoku](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
