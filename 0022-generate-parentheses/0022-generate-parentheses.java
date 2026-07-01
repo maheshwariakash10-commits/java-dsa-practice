@@ -1,21 +1,22 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        ArrayList<String> ans= new ArrayList<>();
-        result(n, 0, 0,"", ans);
-        return ans;
-        
+        ArrayList<String> list= new ArrayList<>();
+         vaild(n, "", 0,0, list );
+         return list;
+
     }
-    public void result(int n, int Lcount, int Rcount, String s, List<String> ans){
+
+    public static void vaild(int n, String s, int lCount, int rCount,ArrayList<String> list){
         if(s.length()==2*n){
-            ans.add(s);
+            list.add(s);
             return; 
         }
 
-        if( Lcount<n){
-            result(n, Lcount+1, Rcount ,s+"(", ans);
+        if(lCount< n ){
+            vaild(n, s+"(", lCount+1, rCount, list);
         }
-        if( Rcount<Lcount){
-            result(n, Lcount, Rcount+1 ,s+")", ans);
+        if(rCount< lCount ){
+            vaild(n, s+")", lCount, rCount+1, list);
         }
     }
 }
