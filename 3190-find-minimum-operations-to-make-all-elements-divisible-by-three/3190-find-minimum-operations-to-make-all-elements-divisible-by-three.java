@@ -1,10 +1,8 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-        int n= nums.length;
         int count=0;
-
-        for(int ele: nums){
-            if(ele%3!=0) count++;
+        for(int i=0;i<nums.length; i++){
+            if(nums[i]%3!=0) count++;
         }
         return count;
         
