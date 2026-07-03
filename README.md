@@ -138,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0189-rotate-array/) | Medium |
@@ -291,6 +292,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0342-power-of-four/) | Easy |
