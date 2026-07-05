@@ -30,6 +30,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0575-distribute-candies](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0575-distribute-candies/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -323,6 +324,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
