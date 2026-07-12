@@ -37,6 +37,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0819-most-common-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0819-most-common-word/) | Easy |
 | [0832-flipping-an-image](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0832-flipping-an-image/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -272,6 +273,7 @@
 | [0633-sum-of-square-numbers](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
