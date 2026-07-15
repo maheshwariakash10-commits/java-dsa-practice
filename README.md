@@ -164,6 +164,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -193,6 +194,7 @@
 | [0342-power-of-four](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0832-flipping-an-image](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0832-flipping-an-image/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
