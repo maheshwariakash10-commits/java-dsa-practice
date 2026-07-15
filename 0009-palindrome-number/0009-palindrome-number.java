@@ -2,12 +2,8 @@ class Solution {
     public boolean isPalindrome(int x) {
         if(x<0) return false;
         int rev=0;
-        if(reverse(x, rev)== x){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return reverse(x, rev)== x;
+        
     }
     public static int reverse(int n, int rev){
       if(n==0) return rev;
