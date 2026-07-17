@@ -73,6 +73,7 @@
 | [3731-find-missing-elements](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3866-first-unique-even-element/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +233,7 @@
 | [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
