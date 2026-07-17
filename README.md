@@ -237,6 +237,7 @@
 | [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -251,6 +252,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3856-trim-trailing-vowels/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
