@@ -1,16 +1,15 @@
 class Solution {
     public int numberOfSteps(int num) {
-       // iterative approch
-       int count=0;
+       // recursive approch
+       int count=0 ;
+       return step(num, count);
 
-
-       while(num!=0){
-        count++;
-        if(num%2==0)  num/=2;
+    }
+    public int step(int n, int count){
+        if(n==0) return count;
+        if(n%2==0)return step(n/2, count+1);
         else{
-            num-=1;
+            return step(n-1, count+1);
         }
-       } 
-       return count;
     }
 }
