@@ -67,6 +67,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3024-type-of-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3033-modify-the-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3033-modify-the-matrix/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -397,6 +398,7 @@
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [3033-modify-the-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3033-modify-the-matrix/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
