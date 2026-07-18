@@ -187,6 +187,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3765-complete-prime-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3765-complete-prime-number/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -346,6 +347,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2427-number-of-common-factors/) | Easy |
+| [3765-complete-prime-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3765-complete-prime-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +371,7 @@
 | [1952-three-divisors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1952-three-divisors/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2427-number-of-common-factors/) | Easy |
+| [3765-complete-prime-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3765-complete-prime-number/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
