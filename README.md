@@ -220,6 +220,7 @@
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1929-concatenation-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3174-clear-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3174-clear-digits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -263,6 +264,7 @@
 | [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3174-clear-digits/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -377,6 +379,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3174-clear-digits/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Brainteaser
