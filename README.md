@@ -48,6 +48,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -382,6 +383,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -432,8 +434,13 @@
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0881-boats-to-save-people/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
