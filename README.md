@@ -244,6 +244,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0832-flipping-an-image](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0832-flipping-an-image/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -436,6 +437,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
