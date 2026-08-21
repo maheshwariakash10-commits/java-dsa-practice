@@ -341,6 +341,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0326-power-of-three/) | Easy |
@@ -433,6 +434,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Timsort
