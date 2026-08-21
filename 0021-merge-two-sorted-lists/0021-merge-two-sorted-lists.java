@@ -18,7 +18,7 @@ class Solution {
         ListNode ans= new ListNode(0);
         ListNode dummy= ans;
 
-        while(temp1!= null || temp2!= null   ){
+        
 while (temp1 != null && temp2 != null) {
             // Pehle null check karo, fir .val access karo
             if (temp1.val <= temp2.val) {
@@ -39,8 +39,7 @@ while (temp1 != null && temp2 != null) {
         }
         
         return ans.next;
-        }
-        return ans.next;
+
         
     }
 }
