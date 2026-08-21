@@ -235,6 +235,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -440,6 +441,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
