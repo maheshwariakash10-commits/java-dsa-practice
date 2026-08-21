@@ -343,6 +343,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0231-power-of-two/) | Easy |
@@ -436,6 +437,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
