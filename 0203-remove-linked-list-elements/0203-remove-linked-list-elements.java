@@ -9,22 +9,21 @@
  * }
  */
 class Solution {
-    // 0-->1-->2-->4-->
-    ListNode dummy = new ListNode(0); //head is dummy
-    ListNode res = dummy; //traversal in LL
-    public void createLL(int x){ //jo val ke equal nhi hai
-        res.next = new ListNode(x);
-        res = res.next;
-    }
     public ListNode removeElements(ListNode head, int val) {
-        ListNode temp = head;
-        while(temp != null){
-            if(temp.val != val){
-                createLL(temp.val);
+        // Dummy node taaki head node ko bhi easily delete/modify kar sakein
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        
+        ListNode temp = dummy;
+        
+        while (temp.next != null) {
+            if (temp.next.val == val) {
+                temp.next = temp.next.next; // Node ko bypass/modify kar diya
+            } else {
+                temp = temp.next;
             }
-            temp = temp.next;
         }
-        //return the linked list
+        
         return dummy.next;
     }
 }
