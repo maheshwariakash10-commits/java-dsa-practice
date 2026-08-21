@@ -86,6 +86,7 @@
 | [0001-two-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0141-linked-list-cycle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -234,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0202-happy-number/) | Easy |
@@ -435,6 +437,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -447,4 +450,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
